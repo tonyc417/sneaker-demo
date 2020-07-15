@@ -5,7 +5,7 @@ body, html {
 }
   
 .nav {
-    background: rgba(108,117,125, .70);
+    background-color: white;
     padding: 10px;
 }
   
@@ -14,11 +14,11 @@ body, html {
 }
   
 .nav a:hover {
-  color: #000;
+  color: green;
 }
   
 .nav a {
-  color: white;
+  color: black;
   text-decoration: none;
   font-family: 'Poppins', sans-serif;
   font-size: 1.2rem;
@@ -56,3 +56,4 @@ max-width: 100%;
 vertical-align: middle;
 border: 0;
 }
+
